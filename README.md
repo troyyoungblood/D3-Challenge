@@ -68,7 +68,7 @@ set of states that rank poorly as previously noted with Louisiana (LA) and Missi
 
 Images of initial rendering and date filtered response.
 
-<img src="/UFO_level_1/static/images/initial_render.PNG" width = "550">
+<img src="../assets/images/age_v_smoker.PNG" width = "550">
 <br>
 <img src="/UFO_level_1/static/images/filtered_date.PNG" width = "550">
 
