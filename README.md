@@ -76,9 +76,3 @@ appear in the upper right quadrant in each case following the trend also identif
 <p>Lastly, comparing the median household income, Household Income (Median) vs Smokes, Lacks Healthcare and Obese, there is a larger
 set of states that rank poorly as previously noted with Louisiana (LA) and Mississippi (MS) in the cluster.</p>
 
-Images of initial rendering and date filtered response.
-
-<img src="../assets/images/age_v_smoker.PNG" width = "550">
-
-
-
