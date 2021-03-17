@@ -1,13 +1,14 @@
 # D3-Challenge
 20210317
 
-The bubble chart is dynamically created based upon an [EV Dataset](assets/data/EVs.csv)- using JavaScript, HTML, and CSS, and D3.js.  The chart is responsive to screen size. Detailed data (State name, number of EV registrations, and the number of Charge Ports) on a bubble is obtained by hovering over the bubble- the user verifies which bubble has been selected by its transition to lime green.  The decision was made to not statically label each bubble because of overlapping bubbles.: <a href="https://troyyoungblood.github.io/D3-Challenge/">View GitHub-Page</a><br>
-
-## D-3 Challenge
-
 This activity is to provide code that will create a dynamic scatter chart using JavaScript, HTML, CSS and D3.
 
 The homework has 2 Levels.  Level 1 is required and Level 2 is Bonus.  Both Levels were completed.  Level 2 will be presented since it incorporates the chart identified in Level 1 along with the additional charts.  The scatter chart has 3 options on each of the x and y axis and the user is able to switch between the options and compare the data accordingly <a href="https://troyyoungblood.github.io/D3-Challenge/">D-3 Challenge</a> .
+
+To view the JavaScript code: [JavaScript Code](assets/js/app.js)<br>
+To view the HTML code: [HTML Code](index.html)<br>
+To view the CSS code: [CSS code](assets/css/style.css)<br>
+To view the D3 CSS code: [D3 CSS code](assets/css/d3Style.css)</p>
 
 <h2>Correlations observed Between Health Risks and Age, Income</h2>
 <br>
