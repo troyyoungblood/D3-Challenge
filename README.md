@@ -7,7 +7,7 @@ The bubble chart is dynamically created based upon an [EV Dataset](assets/data/E
 
 This activity is to provide code that will create a dynamic scatter chart using JavaScript, HTML, CSS and D3.
 
-The homework has 2 Levels.  Level 1 is required and Level 2 is Bonus.  Both Levels were completed.  Level 2 will be presented since it incorporates the chart identified in Level 1 along with the additional charts.  The scatter chart has 3 options on each of the x and y axis and the user is able to switch between the options and compare the data accordingly <a href="https://troyyoungblood.github.io/D3-Challenge/"> .
+The homework has 2 Levels.  Level 1 is required and Level 2 is Bonus.  Both Levels were completed.  Level 2 will be presented since it incorporates the chart identified in Level 1 along with the additional charts.  The scatter chart has 3 options on each of the x and y axis and the user is able to switch between the options and compare the data accordingly <a href="https://troyyoungblood.github.io/D3-Challenge/">D-3 Challenge</a> .
 
 
 
