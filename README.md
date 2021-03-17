@@ -17,7 +17,7 @@ D3 code: [D3 CSS code](assets/css/d3Style.css)</p>
 Example images
 
 <img src="assets/images/age_v_smoker.PNG" width = "450">
-<img src="assets/images/hover_text_box.PNG" width = "450">
+<img src="assets/images/hover_text_box.png" width = "450">
 
 <h2>Correlations observed Between Health Risks and Age, Income</h2>
 <br>
