@@ -1,26 +1,15 @@
 # D3-Challenge
 20210317
-## Welcome to javascript-challenge
 
-This activity is to provide code that will create a table dynamically based upon a dataset supplied for the homework.
+The bubble chart is dynamically created based upon an [EV Dataset](assets/data/EVs.csv)- using JavaScript, HTML, and CSS, and D3.js.  The chart is responsive to screen size. Detailed data (State name, number of EV registrations, and the number of Charge Ports) on a bubble is obtained by hovering over the bubble- the user verifies which bubble has been selected by its transition to lime green.  The decision was made to not statically label each bubble because of overlapping bubbles.: <a href="https://danawoodruff.github.io/d3-challenge/">View GitHub-Page</a><br>
 
-The homework has 2 Levels.  Level 1 is required and Level 2 is Optional.  Both Levels were completed.
+## D-3 Challenge
 
-### I. Level 1: Automatic Table and Date Search (Required) - completed
+This activity is to provide code that will create a dynamic scatter chart using JavaScript, HTML, CSS and D3.
 
-The index.html file provided was used as the basis for the effort to render the overall UFO and subsequently filtered datasets.
+The homework has 2 Levels.  Level 1 is required and Level 2 is Bonus.  Both Levels were completed.  Level 2 will be presented since it incorporates the chart identified in Level 1 along with the additional charts.  The scatter chart has 3 options on each of the x and y axis and the user is able to switch between the options and compare the data accordingly .
 
-JavaScript was used to present the entire table upon inital rendering and then filter the table based on a date supplied by the user.
 
-The rendered table has a column for date, city, state, country, shape, and comment.
-
-Instructions were added to the basis index.html for how tp make a date request and Clear & Refresh button was added to reset the table.
-
-The Javascript, app.js, high-level pseudocode was:
- - render data displaying the full table
- - identify connection (button) between html and JavaScript that would bring desired filter in app.js
- - Using filter, create new array with only desired date for review
- - Render/display desired date and associated data
 
 Images of initial rendering and date filtered response.
 
